@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+
 
 namespace SherlockAndTheBeast
 {
@@ -11,7 +9,6 @@ namespace SherlockAndTheBeast
         static void Main(string[] args)
         {
             uint testCases = Convert.ToUInt16(Console.ReadLine());
-            StringBuilder[] results = new StringBuilder[testCases];
 
             for (int i = 0; i < testCases; ++i)
             {
@@ -31,15 +28,8 @@ namespace SherlockAndTheBeast
                     }
                 }
 
-                results[i] = str;
+                Console.WriteLine(str);
             }
-
-            foreach(StringBuilder result in results)
-            {
-                Console.WriteLine(result);
-            }
-
-            Console.ReadKey();
         }
     }
 }
