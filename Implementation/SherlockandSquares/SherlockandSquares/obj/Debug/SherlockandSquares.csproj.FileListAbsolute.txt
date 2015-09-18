@@ -1,0 +1,6 @@
+E:\HackerRank\Implementation\SherlockandSquares\SherlockandSquares\bin\Debug\SherlockandSquares.exe.config
+E:\HackerRank\Implementation\SherlockandSquares\SherlockandSquares\bin\Debug\SherlockandSquares.exe
+E:\HackerRank\Implementation\SherlockandSquares\SherlockandSquares\bin\Debug\SherlockandSquares.pdb
+E:\HackerRank\Implementation\SherlockandSquares\SherlockandSquares\obj\Debug\SherlockandSquares.csprojResolveAssemblyReference.cache
+E:\HackerRank\Implementation\SherlockandSquares\SherlockandSquares\obj\Debug\SherlockandSquares.exe
+E:\HackerRank\Implementation\SherlockandSquares\SherlockandSquares\obj\Debug\SherlockandSquares.pdb
