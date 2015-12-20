@@ -1,6 +1,0 @@
-E:\HackerRank\WarmUp\StairCase\StairCase\bin\Debug\StairCase.exe.config
-E:\HackerRank\WarmUp\StairCase\StairCase\bin\Debug\StairCase.exe
-E:\HackerRank\WarmUp\StairCase\StairCase\bin\Debug\StairCase.pdb
-E:\HackerRank\WarmUp\StairCase\StairCase\obj\Debug\StairCase.csprojResolveAssemblyReference.cache
-E:\HackerRank\WarmUp\StairCase\StairCase\obj\Debug\StairCase.exe
-E:\HackerRank\WarmUp\StairCase\StairCase\obj\Debug\StairCase.pdb

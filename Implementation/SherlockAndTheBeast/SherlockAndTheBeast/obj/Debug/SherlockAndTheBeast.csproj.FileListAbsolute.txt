@@ -1,6 +1,0 @@
-E:\HackerRank\Implementation\SherlockAndTheBeast\SherlockAndTheBeast\bin\Debug\SherlockAndTheBeast.exe.config
-E:\HackerRank\Implementation\SherlockAndTheBeast\SherlockAndTheBeast\bin\Debug\SherlockAndTheBeast.exe
-E:\HackerRank\Implementation\SherlockAndTheBeast\SherlockAndTheBeast\bin\Debug\SherlockAndTheBeast.pdb
-E:\HackerRank\Implementation\SherlockAndTheBeast\SherlockAndTheBeast\obj\Debug\SherlockAndTheBeast.csprojResolveAssemblyReference.cache
-E:\HackerRank\Implementation\SherlockAndTheBeast\SherlockAndTheBeast\obj\Debug\SherlockAndTheBeast.exe
-E:\HackerRank\Implementation\SherlockAndTheBeast\SherlockAndTheBeast\obj\Debug\SherlockAndTheBeast.pdb
