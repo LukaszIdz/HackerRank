@@ -14,7 +14,6 @@ namespace VeryBigSum
             {
                 sum += Convert.ToInt64(input);
             }
-
             Console.WriteLine(sum);
             Console.ReadKey();
         }
