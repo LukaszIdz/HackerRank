@@ -1,0 +1,6 @@
+D:\C#\HackerRank\BiggerIsGreater\BiggerIsGreater\bin\Debug\BiggerIsGreater.exe.config
+D:\C#\HackerRank\BiggerIsGreater\BiggerIsGreater\bin\Debug\BiggerIsGreater.exe
+D:\C#\HackerRank\BiggerIsGreater\BiggerIsGreater\bin\Debug\BiggerIsGreater.pdb
+D:\C#\HackerRank\BiggerIsGreater\BiggerIsGreater\obj\Debug\BiggerIsGreater.csprojResolveAssemblyReference.cache
+D:\C#\HackerRank\BiggerIsGreater\BiggerIsGreater\obj\Debug\BiggerIsGreater.exe
+D:\C#\HackerRank\BiggerIsGreater\BiggerIsGreater\obj\Debug\BiggerIsGreater.pdb
