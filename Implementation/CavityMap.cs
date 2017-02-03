@@ -3,7 +3,6 @@ using System.Text;
 
 class Solution
 {
-
     static bool IsCavityField(int depth, int[] neighbors)
     {
         if (neighbors[0] < depth && neighbors[1] < depth &&

@@ -16,7 +16,6 @@ void cutSticks(vector <int> Arr)
 		cout << length << "\n";
 		last = Arr.back();
 		Arr.pop_back();
-
 		--length;
 
 		while (length > 0 && Arr[length - 1] <= last)

@@ -1,6 +1,5 @@
 ﻿using System;
 
-
 namespace SherlockandSquares
 {
     class Program
