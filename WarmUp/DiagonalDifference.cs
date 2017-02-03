@@ -19,15 +19,12 @@ namespace DiagonalDifference
             }
 
             int left = 0, right = L - 1, leftSum = 0, rightSum = 0;
-
             while(L-- > 0)
             {
                 leftSum += array[left, left];
                 rightSum += array[left++, right--];
             }
-
             Console.WriteLine(Math.Abs(leftSum - rightSum));
-
         }
     }
 }

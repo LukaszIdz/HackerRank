@@ -19,9 +19,7 @@ namespace BiggerIsGreater
         {
             int sum = 0;
             for(int i = 0; i < word.Length; i++)
-            {
                 sum += (word.Length - i) * word[i];
-            }
             return sum;
         }
 
@@ -29,21 +27,15 @@ namespace BiggerIsGreater
         {
             int powerWord1 = EvalPower(word1);
             int powerWord2 = EvalPower(word2);
-
-            if (powerWord1 > powerWord2) return true;
-            return false;
+            return powerWord1 > powerWord2;
         }
 
         public static void ReturnGreater(string word)
         {
             string sortWord = String.Concat(word.OrderBy(c => c));
             bool foundGreater = false;
-            string greaterWord = null;
-            
-
-
+            string greaterWord = null;           
             if(!foundGreater) Console.WriteLine("no answer");
-
         }
 
         static void Main(string[] args)
@@ -51,17 +43,10 @@ namespace BiggerIsGreater
             Console.WriteLine(EvalPower("hefg"));
             int t = Convert.ToInt32(Console.ReadLine());
             string[] arr = new string[t];
-
             for(int i = 0; i < t; i++)
-            {
                 arr[i] = Console.ReadLine();
-            }
-
             for(int i = 0; i < t; i++)
-            {
                 ReturnGreater(arr[i]);
-            }
-
             Console.ReadKey();
 
         }

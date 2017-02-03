@@ -18,7 +18,6 @@ namespace StairCase
   
                 Console.WriteLine();
             }
-
             Console.ReadKey();
         }
     }
